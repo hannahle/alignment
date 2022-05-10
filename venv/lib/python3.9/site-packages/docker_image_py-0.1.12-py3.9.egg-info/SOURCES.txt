@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+docker_image/__init__.py
+docker_image/digest.py
+docker_image/reference.py
+docker_image/regexp.py
+docker_image_py.egg-info/PKG-INFO
+docker_image_py.egg-info/SOURCES.txt
+docker_image_py.egg-info/dependency_links.txt
+docker_image_py.egg-info/not-zip-safe
+docker_image_py.egg-info/requires.txt
+docker_image_py.egg-info/top_level.txt

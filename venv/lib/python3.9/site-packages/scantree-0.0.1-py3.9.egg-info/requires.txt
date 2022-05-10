@@ -1,0 +1,9 @@
+attrs>=18.0.0
+six>=1.12.0
+pathspec>=0.5.9
+
+[:python_version < "3.4"]
+pathlib2>=2.3.3
+
+[:python_version < "3.5"]
+scandir>=1.9.0
