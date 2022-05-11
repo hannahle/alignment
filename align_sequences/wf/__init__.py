@@ -72,7 +72,7 @@ def align_sequences_mafft(
 
     <br /><br />
 
-    If you found clipkit useful, please cite *MAFFT Multiple Sequence Alignment
+    If you found MAFFT useful, please cite *MAFFT Multiple Sequence Alignment
     Software Version 7: Improvements in Performance and Usability*. Katoh & Standley 2013,
     Molecular Biology and Evolution. doi:
     [10.1093/molbev/mst010](https://academic.oup.com/mbe/article/30/4/772/1073398).
